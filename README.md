@@ -17,7 +17,7 @@ npm -v
 
 ### 2. Download the Project
 - Go to the GitHub repository page.  
-- Click the green **Code** button → **Download ZIP**.  
+- Click the blue **Code** button → **Download ZIP**.  
 - Extract the ZIP file to a folder on your computer.
 
 ### 3. Open the Project Folder
